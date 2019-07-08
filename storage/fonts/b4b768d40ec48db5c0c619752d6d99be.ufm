@@ -1,0 +1,72 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 1987, 1988 by Rob and Ron Elliott, Embossed Graphics Inc.  All Rights Reserved.
+FontName Code39
+FontSubfamily Regular
+UniqueID Altsys Fontographer 3.5  Code39 Regular
+FullName Code39 Regular
+Version Altsys Fontographer 3.5  3/29/92
+PostScriptName Code39 Regular
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 0
+Ascender 1000
+Descender -3
+FontBBox 0 -3 935 1000
+StartCharMetrics 48
+U 32 ; WX 320 ; N space ; G 3
+U 36 ; WX 320 ; N dollar ; G 4
+U 37 ; WX 320 ; N percent ; G 5
+U 43 ; WX 320 ; N plus ; G 6
+U 45 ; WX 320 ; N hyphen ; G 7
+U 46 ; WX 320 ; N period ; G 8
+U 47 ; WX 320 ; N slash ; G 9
+U 48 ; WX 320 ; N zero ; G 10
+U 49 ; WX 320 ; N one ; G 11
+U 50 ; WX 320 ; N two ; G 12
+U 51 ; WX 320 ; N three ; G 13
+U 52 ; WX 320 ; N four ; G 14
+U 53 ; WX 320 ; N five ; G 15
+U 54 ; WX 320 ; N six ; G 16
+U 55 ; WX 320 ; N seven ; G 17
+U 56 ; WX 320 ; N eight ; G 18
+U 57 ; WX 320 ; N nine ; G 19
+U 64 ; WX 320 ; N at ; G 20
+U 65 ; WX 320 ; N A ; G 21
+U 66 ; WX 320 ; N B ; G 22
+U 67 ; WX 320 ; N C ; G 23
+U 68 ; WX 320 ; N D ; G 24
+U 69 ; WX 320 ; N E ; G 25
+U 70 ; WX 320 ; N F ; G 26
+U 71 ; WX 320 ; N G ; G 27
+U 72 ; WX 320 ; N H ; G 28
+U 73 ; WX 320 ; N I ; G 29
+U 74 ; WX 320 ; N J ; G 30
+U 75 ; WX 320 ; N K ; G 31
+U 76 ; WX 320 ; N L ; G 32
+U 77 ; WX 320 ; N M ; G 33
+U 78 ; WX 320 ; N N ; G 34
+U 79 ; WX 320 ; N O ; G 35
+U 80 ; WX 320 ; N P ; G 36
+U 81 ; WX 320 ; N Q ; G 37
+U 82 ; WX 320 ; N R ; G 38
+U 83 ; WX 320 ; N S ; G 39
+U 84 ; WX 320 ; N T ; G 40
+U 85 ; WX 320 ; N U ; G 41
+U 86 ; WX 320 ; N V ; G 42
+U 87 ; WX 320 ; N W ; G 43
+U 88 ; WX 320 ; N X ; G 44
+U 89 ; WX 320 ; N Y ; G 45
+U 90 ; WX 320 ; N Z ; G 46
+U 160 ; WX 500 ; N nbspace ; G 47
+U 173 ; WX 320 ; N hyphen ; G 7
+U 215 ; WX 0 ; N .null ; G 1
+U 253 ; WX 0 ; N .null ; G 1
+U 321 ; WX 0 ; N .null ; G 1
+EndCharMetrics
+EndFontMetrics
